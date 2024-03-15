@@ -12,6 +12,11 @@ rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
 
 ### Cloudflare
+capi.connatix.com.cdn.cloudflare.net
+cd.connatix.com.cdn.cloudflare.net
+lit.connatix.com.cdn.cloudflare.net
+pl.connatix.com.cdn.cloudflare.net
+vid.connatix.com.cdn.cloudflare.net
 pub.doubleverify.com.cdn.cloudflare.net
 video.doubleverify.com.cdn.cloudflare.net
 
