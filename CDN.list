@@ -1,8 +1,17 @@
+### Akamai
 convex-rr.global.dual.dotomi.weighted.com.akadns.net
-pub.doubleverify.com.cdn.cloudflare.net
-video.doubleverify.com.cdn.cloudflare.net
 sb.scorecardresearch.com.edgekey.net
 ssum-sec.casalemedia.com.edgekey.net
 casalemedia.com.edgesuite.net
 as.casalemedia.com.edgesuite.net
+
+### Amazon AWS
+rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
+ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
+
+### Cloudflare
+pub.doubleverify.com.cdn.cloudflare.net
+video.doubleverify.com.cdn.cloudflare.net
+
+### Fastly
 prod.appnexus.map.fastly.net
