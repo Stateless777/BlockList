@@ -15,6 +15,9 @@ as.casalemedia.com.edgesuite.net
 rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 ats-eks.us-east-1.dcs-online-targeting-prd.aws.oath.cloud
 
+### B-CDN
+adsninjacdn.b-cdn.net
+
 ### Cloudflare
 cdn-ima.33across.com.cdn.cloudflare.net
 capi.connatix.com.cdn.cloudflare.net
