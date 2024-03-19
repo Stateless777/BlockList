@@ -10,6 +10,9 @@ cws-hulu.conviva.com
 analytics.google.com
 analytics-alv.google.com
 ssl.google-analytics.com
+exceptions.hubspot.com
+track-eu1.hubspot.com
+track.hubspot.com
 logx.optimizely.com
 widgets.outbrain.com
 count-server.sharethis.com
