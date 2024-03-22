@@ -1,7 +1,8 @@
 ! Title: S777-CDN
-! Last modified: 22 Mar 2024 03:48 CDT
+! Last modified: 22 Mar 2024 03:54 CDT
 ! 
 ! -----------------------blocking filters-----------------------!
 
 moatads.com.edgekey.net
 sb.scorecardresearch.com.edgekey.net
+confiant-integrations.global.ssl.fastly.net
