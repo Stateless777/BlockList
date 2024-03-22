@@ -4,5 +4,8 @@ rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 ### Fastly
 confiant-integrations.global.ssl.fastly.net
 
+||casalemedia.com.edgekey.net^
 moatads.com.edgekey.net
-sb.scorecardresearch.com.edgekey.net
+||scorecardresearch.com.edgekey.net^
+
+||casalemedia.com.edgesuite.net^
