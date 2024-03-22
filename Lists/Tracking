@@ -1,9 +1,5 @@
-! Version: 202403220344! Title: S777-Tracking
-! Last modified: 22 Mar 2024 03:54 CDT
-! 
-! -----------------------blocking filters-----------------------!
-
 ||adrta.com^
+||bidswitch.net^
 ||googletagmanager.com^
 geo.moatads.com
 a.pub.network
