@@ -1,8 +1,10 @@
 ! Version: 202403220344! Title: S777-Tracking
-! Last modified: 22 Mar 2024 03:44 CDT
+! Last modified: 22 Mar 2024 03:54 CDT
 ! 
 ! -----------------------blocking filters-----------------------!
 
 ||adrta.com^
 geo.moatads.com
 a.pub.network
+||scorecardresearch.com^
+scorecardresearch.com
