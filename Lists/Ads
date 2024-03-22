@@ -1,6 +1,9 @@
 ||2mdn.net^
 gcdn.2mdn.net
+||360yield.com^
 ||3lift.com^
+||adform.net^
+||admanmedia.com^
 ||adnxs.com^
 ||adsrvr.org^
 ||amazon-adsystem.com^
@@ -15,15 +18,19 @@ cmp-cdn.cookielaw.org
 ||doubleclick.net^
 googleads.g.doubleclick.net
 pubads.g.doubleclick.net
+||fastclick.net^
 api.floors.dev
 adservice.google.com
+pagead-googlehosted.l.google.com
 ||googleadservices.com^
 ||googlesyndication.com^
 ||gumgum.com^
 ||id5-sync.com^
 ||indexww.com^
+||kargo.com^
 ||liadm.com^
 ||media.net^
+||mediago.io^
 ||moatads.com^
 video.moatads.com
 ||omappapi.com^
@@ -35,3 +42,7 @@ ow.pubmatic.com
 ||rubiconproject.com^
 ||sharethrough.com^
 ||smartadserver.com^
+||sonobi.com^
+||unblockia.com^
+||yieldmo.com^
+ads.yieldmo.com

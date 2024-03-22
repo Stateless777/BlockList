@@ -1,6 +1,10 @@
 ||1rx.io^
 ||ad.gt^
+||adentifi.com^
+||adobedtm.com^
 ||adrta.com^
+||adsafeprotected.com^
+pixel.adsafeprotected.com
 insight.adsrvr.org
 ||app-measurement.com^
 ||bidswitch.net^
@@ -15,7 +19,13 @@ ssl.google-analytics.com
 geo.moatads.com
 ||moatpixel.com^
 ||mxptint.net^
+||newrelic.com^
+js-agent.newrelic.com
+metric-api.newrelic.com
+mobile-collector.newrelic.com
+||nmrodam.com^
 ||onetag-sys.com^
+cookies-data.onetrust.io
 a.pub.network
 aktrack.pubmatic.com
 ||quantcount.com^
