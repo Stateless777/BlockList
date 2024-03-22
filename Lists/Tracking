@@ -1,8 +1,10 @@
 ||1rx.io^
+||ad.gt^
 ||adrta.com^
 insight.adsrvr.org
 ||app-measurement.com^
 ||bidswitch.net^
+||criteo.net^
 ||demdex.net^
 ||google-analytics.com^
 ssl.google-analytics.com
@@ -16,6 +18,8 @@ geo.moatads.com
 ||onetag-sys.com^
 a.pub.network
 aktrack.pubmatic.com
+||quantcount.com^
+pixel.quantcount.com
 ||quantserve.com^
 ||analytics.rlcdn.com^
 api.rlcdn.com
