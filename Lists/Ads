@@ -4,5 +4,10 @@
 ! 
 ! -----------------------blocking filters-----------------------!
 
+||amazon-adsystem.com^
+amazon-adsystem.com
+aax-us-east.amazon-adsystem.com
+||googlesyndication.com^
+googlesyndication.com
 ||sharethrough.com^
 sharethrough.com
