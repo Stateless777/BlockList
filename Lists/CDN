@@ -1,5 +1,7 @@
 ### Akamai
 ||adformnet.akadns.net^
+||rfihub.com.akadns.net^
+||stickyadstv.com.akadns.net^
 ||rubiconproject.net.akadns.net^
 
 ### Amazon AWS
@@ -9,7 +11,7 @@ rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 confiant-integrations.global.ssl.fastly.net
 
 ||casalemedia.com.edgekey.net^
-moatads.com.edgekey.net
+||moatads.com.edgekey.net^
 ||scorecardresearch.com.edgekey.net^
 
 ||casalemedia.com.edgesuite.net^

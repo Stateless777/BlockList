@@ -1,4 +1,5 @@
 ||1rx.io^
+||33across.com^
 ||ad.gt^
 ||adentifi.com^
 ||adobedtm.com^
@@ -15,6 +16,7 @@ ping.chartbeat.net
 i.clean.gg
 ||criteo.net^
 ||demdex.net^
+stun.l.google.com
 ||google-analytics.com^
 ssl.google-analytics.com
 ||googletagmanager.com^
@@ -23,6 +25,7 @@ ssl.google-analytics.com
 ||intentiq.com^
 ||kochava.com^
 ||lijit.com^
+||liveintent.com^
 geo.moatads.com
 ||moatpixel.com^
 ||mxptint.net^
@@ -30,6 +33,7 @@ geo.moatads.com
 js-agent.newrelic.com
 metric-api.newrelic.com
 mobile-collector.newrelic.com
+||nr-data.net^
 ||nmrodam.com^
 ||onetag-sys.com^
 cookies-data.onetrust.io
@@ -52,4 +56,5 @@ scorecardresearch.com
 ||sitescout.com^
 ||spot.im^
 ||tapad.com^
+||tynt.com^
 ||analytics.yahoo.com^
