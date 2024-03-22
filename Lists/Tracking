@@ -4,6 +4,7 @@
 ! -----------------------blocking filters-----------------------!
 
 ||adrta.com^
+||googletagmanager.com^
 geo.moatads.com
 a.pub.network
 ||quantserve.com^
