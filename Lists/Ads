@@ -38,11 +38,15 @@ pagead-googlehosted.l.google.com
 ||loopme.me^
 ||media.net^
 ||mediago.io^
+||minutemedia-prebid.com^
 ||moatads.com^
 video.moatads.com
 ||omappapi.com^
 ||onetrust.com^
 ||openx.net^
+||outbrain.com^
+||outbrain.org^
+||privacy-center.org^
 ||privacymanager.io^
 ||pubmatic.com^
 ads.pubmatic.com
@@ -57,6 +61,7 @@ ow.pubmatic.com
 ||spotim.market^
 ||stickyadstv.com^
 ||unblockia.com^
+||undertone.com^
 ||webcontentassessor.com^
 ||yieldmo.com^
 ads.yieldmo.com

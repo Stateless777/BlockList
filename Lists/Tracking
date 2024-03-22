@@ -14,8 +14,10 @@ static.chartbeat.com
 ||chartbeat.net^
 ping.chartbeat.net
 i.clean.gg
+||colossusssp.com^
 ||criteo.net^
 ||demdex.net^
+||geoedge.be^
 stun.l.google.com
 ||google-analytics.com^
 ssl.google-analytics.com
@@ -26,6 +28,7 @@ ssl.google-analytics.com
 ||kochava.com^
 ||lijit.com^
 ||liveintent.com^
+rum.minutemediaservices.com
 geo.moatads.com
 ||moatpixel.com^
 ||mxptint.net^
@@ -37,12 +40,14 @@ mobile-collector.newrelic.com
 ||nmrodam.com^
 ||onetag-sys.com^
 cookies-data.onetrust.io
+widgets.outbrain.com
 ||pippio.com^
 a.pub.network
 aktrack.pubmatic.com
 ||quantcount.com^
 pixel.quantcount.com
 ||quantserve.com^
+||richaudience.com^
 ||analytics.rlcdn.com^
 api.rlcdn.com
 ats.rlcdn.com
