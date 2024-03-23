@@ -13,6 +13,7 @@ insight.adsrvr.org
 mybbc-analytics.files.bbci.co.uk
 ||bidr.io^
 ||bidswitch.net^
+licensing.bitmovin.com
 ||bounceexchange.com^
 ||bouncex.net^
 admin.brightcove.com
@@ -72,6 +73,7 @@ metric-api.newrelic.com
 mobile-collector.newrelic.com
 ||nr-data.net^
 ||nmrodam.com^
+||measure.office.com^
 ||onetag-sys.com^
 cookies-data.onetrust.io
 ||optimizely.com^
@@ -79,12 +81,14 @@ logx.optimizely.com
 widgets.outbrain.com
 ||pippio.com^
 ||pix.pub^
+||postrelease.com^
 ||proximic.com^
 a.pub.network
 aktrack.pubmatic.com
 ||quantcount.com^
 pixel.quantcount.com
 ||quantserve.com^
+||researchnow.com^
 ||rezync.com^
 ||richaudience.com^
 ||analytics.rlcdn.com^
