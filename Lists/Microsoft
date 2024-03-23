@@ -2,3 +2,5 @@
 sdtagging-east.eastus.cloudapp.azure.com
 kg-tracking-service-prod.southeastasia.cloudapp.azure.com
 telemetry.westeurope.cloudapp.azure.com
+
+self.events.data.microsoft.com
