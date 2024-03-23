@@ -9,6 +9,7 @@ pixel.adsafeprotected.com
 insight.adsrvr.org
 ||agkn.com^
 ||app-measurement.com^
+mybbc-analytics.files.bbci.co.uk
 ||bidr.io^
 ||bidswitch.net^
 ||bounceexchange.com^
@@ -29,6 +30,8 @@ i.clean.gg
 ||creativecdn.com^
 ||criteo.net^
 ||demdex.net^
+||dotmetrics.net^
+uk-script.dotmetrics.net
 ||forter.com^
 ||geoedge.be^
 ||go-mpulse.net^
@@ -62,6 +65,8 @@ mobile-collector.newrelic.com
 ||nmrodam.com^
 ||onetag-sys.com^
 cookies-data.onetrust.io
+||optimizely.com^
+logx.optimizely.com
 widgets.outbrain.com
 ||pippio.com^
 a.pub.network
