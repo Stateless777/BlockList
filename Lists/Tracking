@@ -21,12 +21,15 @@ gallery-metrics.api.brightcove.com
 metrics.brightcove.com
 reporting.brightcove.com
 sadmin.brightcove.com
+||browser-intake-datadoghq.com^
 ||chartbeat.com^
 static.chartbeat.com
 ||chartbeat.net^
 ping.chartbeat.net
 i.clean.gg
 ||clientgear.com^
+collector.cdp.cnn.com
+lightning.cnn.com
 smetrics.cnn.com
 ||colossusssp.com^
 ||conviva.com^
@@ -52,6 +55,7 @@ track.hubspot.com
 ||instabug.com^
 api.instabug.com
 ||intentiq.com^
+||jsrdn.com^
 ||kochava.com^
 ||lijit.com^
 ||liveintent.com^
@@ -74,6 +78,8 @@ cookies-data.onetrust.io
 logx.optimizely.com
 widgets.outbrain.com
 ||pippio.com^
+||pix.pub^
+||proximic.com^
 a.pub.network
 aktrack.pubmatic.com
 ||quantcount.com^
@@ -100,5 +106,7 @@ geo-tracker.smadex.com
 ping1.tnt-ea.com
 rtm.tnt-ea.com
 ||tynt.com^
+||ugdturner.com^
 analytics-prd.aws.wehaa.net
 ||analytics.yahoo.com^
+||zqtk.net^
