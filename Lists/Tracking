@@ -75,8 +75,8 @@ geo.moatads.com
 js-agent.newrelic.com
 metric-api.newrelic.com
 mobile-collector.newrelic.com
-||nr-data.net^
 ||nmrodam.com^
+||nr-data.net^
 ||measure.office.com^
 ||onetag-sys.com^
 cookies-data.onetrust.io
@@ -106,7 +106,6 @@ rc.rlcdn.com
 ||s-onetag.com^
 ||sascdn.com^
 ||scorecardresearch.com^
-scorecardresearch.com
 ||sdiapi.com^
 ||sentry.io^
 ||sitescout.com^
