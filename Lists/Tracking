@@ -1,6 +1,7 @@
 ||1rx.io^
 ||2o7.net^
 ||33across.com^
+||6sense.com^
 ||ad.gt^
 ||adentifi.com^
 ||adobedtm.com^
@@ -10,6 +11,8 @@ pixel.adsafeprotected.com
 insight.adsrvr.org
 ||agkn.com^
 ||app-measurement.com^
+in.appcenter.ms
+||appsflyer.com^
 tracker.bang.com
 mybbc-analytics.files.bbci.co.uk
 ||bidr.io^
@@ -28,6 +31,7 @@ sadmin.brightcove.com
 static.chartbeat.com
 ||chartbeat.net^
 ping.chartbeat.net
+||clarity.ms^
 i.clean.gg
 ||clientgear.com^
 ||cloudflareinsights.com^
@@ -37,8 +41,10 @@ smetrics.cnn.com
 ||colossusssp.com^
 ||conviva.com^
 cws-hulu.conviva.com
+||crazyegg.com^
 ||creativecdn.com^
 ||criteo.net^
+||datadoghq.com^
 ||demdex.net^
 ||dotmetrics.net^
 uk-script.dotmetrics.net
@@ -60,6 +66,7 @@ telemetry.sdk.inmobi.com
 ||instabug.com^
 api.instabug.com
 ||intentiq.com^
+hits-i.iubenda.com
 ||jsrdn.com^
 ||kochava.com^
 ||lijit.com^
@@ -69,6 +76,7 @@ rum.minutemediaservices.com
 ||ml314.com^
 geo.moatads.com
 ||moatpixel.com^
+||mparticle.com^
 ||mxptint.net^
 ||nc0.co^
 ||newrelic.com^
@@ -84,6 +92,7 @@ cookies-data.onetrust.io
 logx.optimizely.com
 widgets.outbrain.com
 ss.phncdn.com
+||pingdom.net^
 ||pippio.com^
 ||pix.pub^
 ||postrelease.com^
@@ -97,6 +106,7 @@ pixel.quantcount.com
 ||researchnow.com^
 ||rezync.com^
 ||richaudience.com^
+||rkdms.com^
 ||analytics.rlcdn.com^
 api.rlcdn.com
 ats.rlcdn.com
@@ -105,18 +115,25 @@ id.rlcdn.com
 idsync.rlcdn.com
 rc.rlcdn.com
 ||s-onetag.com^
+||sail-personalize.com^
 ||sascdn.com^
 ||scorecardresearch.com^
 ||sdiapi.com^
+||segment.com^
+||segment.io^
 ||sentry.io^
+count-server.sharethis.com
 ||sitescout.com^
 geo-tracker.smadex.com
 ||spot.im^
 ||tapad.com^
+||tealiumiq.com^
 ping1.tnt-ea.com
 rtm.tnt-ea.com
+||tru.am^
 ||tynt.com^
 ||ugdturner.com^
+||visualwebsiteoptimizer.com^
 analytics-prd.aws.wehaa.net
 ||analytics.yahoo.com^
 ||zqtk.net^

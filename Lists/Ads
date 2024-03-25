@@ -7,6 +7,7 @@ gcdn.2mdn.net
 ||adnxs.com^
 ||adsrvr.org^
 ||adtelligent.com^
+||adthrive.com^
 ||adtng.com^
 ||amazon-adsystem.com^
 aax-us-east.amazon-adsystem.com
@@ -14,6 +15,7 @@ aax-us-east.amazon-adsystem.com
 ||appboycdn.com^
 ||avantisvideo.com^
 ||bidtheatre.com^
+||brainlyads.com^
 ||braze.com^
 ||browsiprod.com^
 ||btloader.com^
@@ -25,12 +27,16 @@ aax-us-east.amazon-adsystem.com
 ||clarium.io^
 ||contextweb.com^
 cmp-cdn.cookielaw.org
+||cootlogix.com^
 ||criteo.com^
 ||deployads.com^
+||dianomi.com^
 ||doubleclick.net^
 googleads.g.doubleclick.net
 pubads.g.doubleclick.net
+||e-planning.net^
 ||fastclick.net^
+||flashtalking.com^
 api.floors.dev
 ||fwmrm.net^
 adservice.google.com
@@ -39,11 +45,13 @@ pagead-googlehosted.l.google.com
 ||googlesyndication.com^
 ||gumgum.com^
 ||hs-banner.com^
+||hsadspixel.net^
 ||hubtraffic.com^
 ||id5-sync.com^
 ||img-taboola.com^
 ||indexww.com^
 ||inmobi.com^
+||iubenda.com^
 ||kargo.com^
 ||liadm.com^
 ||loopme.me^
@@ -64,6 +72,7 @@ video.moatads.com
 ||outbrain.org^
 ||outbrainimg.com^
 ||p-n.io^
+||permutive.com^
 ||privacy-center.org^
 ||privacymanager.io^
 ||pubmatic.com^
@@ -75,9 +84,13 @@ ow.pubmatic.com
 ||rubiconproject.com^
 ||servedby-buysellads.com^
 ||sharethrough.com^
+||smaato.net^
+sdk-android.ad.smaato.net
 ||smadex.com^
 ||smartadserver.com^
+||smilewanted.com^
 ||sonobi.com^
+||sophi.io^
 ||spotim.market^
 ||stickyadstv.com^
 ||taboola.com^
@@ -91,5 +104,6 @@ s.cdn.turner.com
 ||undertone.com^
 ||videoplayerhub.com^
 ||webcontentassessor.com^
+||yellowblue.io^
 ||yieldmo.com^
 ads.yieldmo.com
