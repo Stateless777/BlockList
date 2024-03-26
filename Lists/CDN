@@ -21,6 +21,7 @@ rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 ||polyfill.io.cdn.cloudflare.net^
 
 ### Fastly
+||medallia2.map.fastly.net^
 ||mparticle.map.fastly.net^
 ||outbrain.map.fastly.net^
 ||taboola.map.fastly.net^
