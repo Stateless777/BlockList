@@ -10,6 +10,9 @@
 pixel.adsafeprotected.com
 insight.adsrvr.org
 ||agkn.com^
+||amplitude.com^
+api.amplitude.com
+api2.amplitude.com
 ||app-measurement.com^
 in.appcenter.ms
 ||appsflyer.com^
@@ -20,6 +23,7 @@ mybbc-analytics.files.bbci.co.uk
 licensing.bitmovin.com
 ||bounceexchange.com^
 ||bouncex.net^
+||brandmetrics.com^
 admin.brightcove.com
 beacon.playback.api.brightcove.com
 gallery-metrics.api.brightcove.com
@@ -27,6 +31,10 @@ metrics.brightcove.com
 reporting.brightcove.com
 sadmin.brightcove.com
 ||browser-intake-datadoghq.com^
+analytics.ccgateway.net
+carbon-cdn.ccgateway.net
+privacy-location-edge.ccgateway.net
+tag-api-2-1.ccgateway.net
 ||chartbeat.com^
 static.chartbeat.com
 ||chartbeat.net^
@@ -46,10 +54,12 @@ cws-hulu.conviva.com
 ||creativecdn.com^
 ||criteo.net^
 ||datadoghq.com^
+||datadome.co^
 ||demdex.net^
 ||dotmetrics.net^
 uk-script.dotmetrics.net
 ||etahub.com^
+||exelator.com^
 ||forter.com^
 ||geoedge.be^
 ||go-mpulse.net^
@@ -92,7 +102,9 @@ cookies-data.onetrust.io
 ||optimizely.com^
 logx.optimizely.com
 widgets.outbrain.com
+||parsely.com^
 ||peer39.com^
+||petametrics.com^
 ss.phncdn.com
 ||pingdom.net^
 ||pippio.com^
@@ -130,6 +142,7 @@ count-server.sharethis.com
 ||sitescout.com^
 geo-tracker.smadex.com
 ||spot.im^
+||stereotypedsugar.com^
 ||tapad.com^
 ||tealiumiq.com^
 ping1.tnt-ea.com
