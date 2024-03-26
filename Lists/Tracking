@@ -77,8 +77,10 @@ telemetry.sdk.inmobi.com
 ||instabug.com^
 api.instabug.com
 ||intentiq.com^
+||instana.io^
 hits-i.iubenda.com
 ||jsrdn.com^
+||kampyle.com^
 ||kochava.com^
 ||lijit.com^
 ||liveintent.com^
@@ -151,6 +153,7 @@ rtm.tnt-ea.com
 ||tynt.com^
 ||ugdturner.com^
 ||visualwebsiteoptimizer.com^
+mparticle.weather.com
 analytics-prd.aws.wehaa.net
 ||analytics.yahoo.com^
 ||zqtk.net^

@@ -17,9 +17,11 @@ rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 ||crazyegg.com.cdn.cloudflare.net^
 ||doubleverify.com.cdn.cloudflare.net^
 ||media6degrees.com.cdn.cloudflare.net^
+||instana.io.cdn.cloudflare.net^
 ||polyfill.io.cdn.cloudflare.net^
 
 ### Fastly
+||mparticle.map.fastly.net^
 ||outbrain.map.fastly.net^
 ||taboola.map.fastly.net^
 ||confiant-integrations.global.ssl.fastly.net^
