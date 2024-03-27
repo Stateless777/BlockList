@@ -63,6 +63,8 @@ uk-script.dotmetrics.net
 ||forter.com^
 ||geoedge.be^
 ||go-mpulse.net^
+analytics.google.com
+analytics-alv.google.com
 stun.l.google.com
 ||google-analytics.com^
 ssl.google-analytics.com
@@ -149,9 +151,11 @@ geo-tracker.smadex.com
 ||tealiumiq.com^
 ping1.tnt-ea.com
 rtm.tnt-ea.com
+||trackonomics.net^
 ||tru.am^
 ||tynt.com^
 ||ugdturner.com^
+||urbanairship.com^
 ||visualwebsiteoptimizer.com^
 mparticle.weather.com
 analytics-prd.aws.wehaa.net

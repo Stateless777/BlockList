@@ -8,6 +8,7 @@
 
 ### Amazon AWS
 ams-adfuel-services-prod-310035039.us-east-1.elb.amazonaws.com
+k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com
 rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com
 ||admarvel.s3.amazonaws.com^
 
