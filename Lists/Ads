@@ -2,7 +2,9 @@
 gcdn.2mdn.net
 ||360yield.com^
 ||3lift.com^
+||4dex.io^
 ||adform.net^
+||adlightning.com^
 ||admanmedia.com^
 ||adnxs.com^
 ||adsrvr.org^
@@ -25,6 +27,7 @@ aax-us-east.amazon-adsystem.com
 ||bullionyield.com^
 ||buysellads.com^
 ||carbonads.com^
+||carbonads.net^
 ||casalemedia.com^
 ||clarium.io^
 ||contextweb.com^
@@ -38,6 +41,7 @@ cmp-cdn.cookielaw.org
 googleads.g.doubleclick.net
 pubads.g.doubleclick.net
 ||e-planning.net^
+||emxdgt.com^
 ||fastclick.net^
 ||flashtalking.com^
 api.floors.dev
@@ -58,10 +62,13 @@ pagead-googlehosted.l.google.com
 ||kargo.com^
 ||liadm.com^
 ||loopme.me^
+||marketo.net^
 ||medallia.com^
 ||media.net^
 ||mediago.io^
 ||minutemedia-prebid.com^
+||mktoresp.com^
+||mktossl.com^
 bucket1.mm-syringe.com
 ||mmctsvc.com^
 ||moatads.com^
@@ -77,6 +84,7 @@ a.optmnstr.com
 ||outbrain.org^
 ||outbrainimg.com^
 ||p-n.io^
+||pbstck.com^
 ||permutive.app^
 ||permutive.com^
 ||privacy-center.org^
@@ -97,6 +105,7 @@ sdk-android.ad.smaato.net
 ||smadex.com^
 ||smartadserver.com^
 ||smilewanted.com^
+||snack-media.com^
 ||sonobi.com^
 ||sophi.io^
 ||spotim.market^
@@ -114,6 +123,7 @@ s.cdn.turner.com
 ||validclick.net^
 ||viafoura.co^
 ||viafoura.net^
+||vidazoo.com^
 ||videoplayerhub.com^
 ||webcontentassessor.com^
 ad.wsod.com

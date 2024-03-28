@@ -13,6 +13,7 @@ insight.adsrvr.org
 ||amplitude.com^
 api.amplitude.com
 api2.amplitude.com
+||apester.com^
 ||app-measurement.com^
 in.appcenter.ms
 ||appsflyer.com^
@@ -23,6 +24,7 @@ mybbc-analytics.files.bbci.co.uk
 licensing.bitmovin.com
 ||bounceexchange.com^
 ||bouncex.net^
+||branch.io^
 ||brandmetrics.com^
 admin.brightcove.com
 beacon.playback.api.brightcove.com
@@ -61,6 +63,7 @@ uk-script.dotmetrics.net
 ||etahub.com^
 ||exelator.com^
 ||forter.com^
+||getadmiral.com^
 ||geoedge.be^
 ||go-mpulse.net^
 analytics.google.com
@@ -80,6 +83,7 @@ telemetry.sdk.inmobi.com
 api.instabug.com
 ||intentiq.com^
 ||instana.io^
+||ipgeolocation.io^
 hits-i.iubenda.com
 ||jsrdn.com^
 ||kampyle.com^
@@ -94,6 +98,7 @@ geo.moatads.com
 ||mparticle.com^
 ||mxptint.net^
 ||nc0.co^
+||nelreports.net^
 ||newrelic.com^
 js-agent.newrelic.com
 metric-api.newrelic.com
@@ -160,4 +165,5 @@ rtm.tnt-ea.com
 mparticle.weather.com
 analytics-prd.aws.wehaa.net
 ||analytics.yahoo.com^
+||zoominfo.com^
 ||zqtk.net^
