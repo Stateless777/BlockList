@@ -10,6 +10,7 @@
 pixel.adsafeprotected.com
 insight.adsrvr.org
 ||agkn.com^
+||aliveachiever.com^
 ||amplitude.com^
 api.amplitude.com
 api2.amplitude.com
@@ -57,6 +58,7 @@ cws-hulu.conviva.com
 ||criteo.net^
 ||datadoghq.com^
 ||datadome.co^
+||datazoom.io^
 ||demdex.net^
 ||dotmetrics.net^
 uk-script.dotmetrics.net
@@ -140,6 +142,7 @@ id.rlcdn.com
 idsync.rlcdn.com
 rc.rlcdn.com
 ||s-onetag.com^
+ak.sail-horizon.com
 ||sail-personalize.com^
 ||sascdn.com^
 ||scorecardresearch.com^
@@ -150,6 +153,7 @@ rc.rlcdn.com
 count-server.sharethis.com
 ||sitescout.com^
 geo-tracker.smadex.com
+||speedcurve.com^
 ||spiny.ai^
 ||spot.im^
 ||stereotypedsugar.com^
@@ -163,8 +167,10 @@ rtm.tnt-ea.com
 ||ugdturner.com^
 ||urbanairship.com^
 ||visualwebsiteoptimizer.com^
+cdn.watchingthat.net
 mparticle.weather.com
 analytics-prd.aws.wehaa.net
 ||analytics.yahoo.com^
+||zergnet.com^
 ||zoominfo.com^
 ||zqtk.net^

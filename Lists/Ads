@@ -44,6 +44,7 @@ pubads.g.doubleclick.net
 ||emxdgt.com^
 ||fastclick.net^
 ||flashtalking.com^
+||flipp.com^
 api.floors.dev
 ||fwmrm.net^
 adservice.google.com
@@ -59,6 +60,7 @@ pagead-googlehosted.l.google.com
 ||indexww.com^
 ||inmobi.com^
 ||iubenda.com^
+||jwpltx.com^
 ||kargo.com^
 ||liadm.com^
 ||loopme.me^
@@ -100,6 +102,10 @@ ow.pubmatic.com
 ||servebom.com^
 ||servedby-buysellads.com^
 ||sharethrough.com^
+p.skimresources.com
+r.skimresources.com
+s.skimresources.com
+t.skimresources.com
 ||smaato.net^
 sdk-android.ad.smaato.net
 ||smadex.com^
@@ -112,6 +118,7 @@ sdk-android.ad.smaato.net
 ||stickyadstv.com^
 ||taboola.com^
 cdn.taboola.com
+||teads.tv^
 ||trafficjunky.com^
 ||tremorhub.com^
 ||trustarc.com^
@@ -120,6 +127,7 @@ s.cdn.turner.com
 ||tvsquared.com^
 ||unblockia.com^
 ||undertone.com^
+||unrulymedia.com^
 ||validclick.net^
 ||viafoura.co^
 ||viafoura.net^
@@ -127,6 +135,7 @@ s.cdn.turner.com
 ||videoplayerhub.com^
 ||webcontentassessor.com^
 ad.wsod.com
+c2shb.pubgw.yahoo.com
 ||yellowblue.io^
 ||yieldmo.com^
 ads.yieldmo.com
