@@ -18,6 +18,7 @@ api2.amplitude.com
 ||app-measurement.com^
 in.appcenter.ms
 ||appsflyer.com^
+||audrte.com^
 tracker.bang.com
 mybbc-analytics.files.bbci.co.uk
 ||bidr.io^
@@ -156,6 +157,7 @@ geo-tracker.smadex.com
 ||speedcurve.com^
 ||spiny.ai^
 ||spot.im^
+||streamrail.com^
 ||stereotypedsugar.com^
 ||tapad.com^
 ||tealiumiq.com^
@@ -171,6 +173,7 @@ cdn.watchingthat.net
 mparticle.weather.com
 analytics-prd.aws.wehaa.net
 ||analytics.yahoo.com^
+||yieldoptimizer.com^
 ||zergnet.com^
 ||zoominfo.com^
 ||zqtk.net^
